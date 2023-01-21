@@ -1,2 +1,2 @@
 # OSL_Dataprocessing
-This repository extracts useful information from ROS .bag file from OSL (Open Source Leg) experiments
+Example codes in this repository extract useful information from ROS .bag file from OSL (Open Source Leg) experiments
