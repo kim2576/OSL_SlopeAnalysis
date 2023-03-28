@@ -1,4 +1,4 @@
-# OSL_Dataprocessing
+# OSL_SlopeAnalysis
 Example codes in this repository extract useful information from ROS .bag file from OSL (Open Source Leg) experiments
 
 1. rosbag2file
